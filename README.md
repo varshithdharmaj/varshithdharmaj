@@ -67,7 +67,7 @@ I’ve edited reels that hit 8.1M+ views in a month, and I code with the same cr
 
 ---
 
-### ✍️ Random Dev Quote
+### ✍️  Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
