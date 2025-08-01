@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on:  
-AI-driven Fake News Detection, WhatsApp Redirect Bot, and Real-Time Dashboards  
+ Agentic voice models, and Real-Time Dashboards  
 
 👯 I’m looking to collaborate on:  
 AI/ML projects, real-time web apps, and creative video campaigns  
